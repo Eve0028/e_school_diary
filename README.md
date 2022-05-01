@@ -11,6 +11,23 @@ The project is not finished.
 
 
 ## Application features - screenshots:
-### 
-![diary_view](/screenshots/login_panel.png)
+#### Login panel
+<img src="/screenshots/login_panel.png" alt="journal" width="550"/>
 
+#### Registration
+<img src="/screenshots/register_panel.png" alt="journal" width="550"/>
+
+#### General view
+<img src="/screenshots/generalview_panel.png" alt="journal" width="550"/>
+
+#### Grades
+<img src="/screenshots/studentinfo_grades_panel.png" alt="journal" width="550"/>
+
+#### Attendance
+<img src="/screenshots/studentinfo_attendance_panel.png" alt="journal" width="550"/>
+
+#### Grade charts against the classroom
+<img src="/screenshots/studentinfo_chart_panel.png" alt="journal" width="550"/>
+
+#### Timetable
+<img src="/screenshots/studentinfo_timetable_panel.png" alt="journal" width="550"/>
