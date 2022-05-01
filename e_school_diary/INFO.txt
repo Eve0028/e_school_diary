@@ -1,0 +1,4 @@
+Bazę tworzyłam w PhpMyAdmin
+Nazwa bazy do której importować plik .sql:  edziennik
+Access'a użyłam do zrobienia relacji między tabelami
+Projekt nie jest ukończony
