@@ -9,6 +9,7 @@ The project is in Polish - English will be implemented in the future.
 **The project is not finished.**
 <br><br>
 
+
 ## Application features - screenshots:
 #### Login panel
 <img src="/screenshots/login_panel.png" alt="journal" width="550"/>
@@ -30,3 +31,8 @@ The project is in Polish - English will be implemented in the future.
 
 #### Timetable
 <img src="/screenshots/studentinfo_timetable_panel.png" alt="journal" width="550"/>
+
+<br>
+
+## Database structure:
+<img src="/screenshots/database.PNG" alt="database"/>
